@@ -1,6 +1,6 @@
 # Hi there, I'm Monil 👋
 
-![Monil's GitHub Banner](https://your-image-url/banner.png)
+![Monil's GitHub Banner](https://www.freepik.com/premium-ai-image/man-sitting-desk-front-computer_234609697.htm#fromView=search&page=1&position=48&uuid=cbca2c00-1144-474d-ad48-e3ec91c91bfb)
 
 I'm a passionate developer and ethical hacker who loves to explore new technologies and solve problems. 
 
