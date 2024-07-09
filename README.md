@@ -1,6 +1,6 @@
 # Hi there, I'm Monil 👋
 
-![Monil's GitHub Banner](https://www.freepik.com/premium-ai-image/man-sitting-desk-front-computer_234609697.htm#fromView=search&page=1&position=48&uuid=cbca2c00-1144-474d-ad48-e3ec91c91bfb)
+![Monil's GitHub Banner](https://your-image-url/banner.png)
 
 I'm a passionate developer and ethical hacker who loves to explore new technologies and solve problems. 
 
@@ -11,11 +11,6 @@ I'm a passionate developer and ethical hacker who loves to explore new technolog
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Monil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockstarmonil&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rockstarmonil&layout=compact&theme=radical)
 
 ## 🎬 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -41,3 +36,4 @@ I'm a passionate developer and ethical hacker who loves to explore new technolog
 - I love playing chess and solving puzzles.
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=rockstarmonil.visitor-badge)
+![Profile Hits](https://komarev.com/ghpvc/?username=rockstarmonil&style=flat-square&color=blue)
