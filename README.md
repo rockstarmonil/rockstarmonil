@@ -22,6 +22,6 @@
 ## 🌟 Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=newphpproject&theme=radical)](https://github.com/rockstarmonil/newphpproject)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=Laravel11CRUD&theme=radical)](https://github.com/rockstarmonil/Laravel11CRUD)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=Inventory-management-software&theme=radical)](https://github.com/rockstarmonil/Inventory-management-software)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=monil-portfolio&theme=radical)](https://github.com/rockstarmonil/monil-portfolio)
