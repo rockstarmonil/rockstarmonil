@@ -1,6 +1,6 @@
 ![Monil's GitHub Banner](https://github.com/rockstarmonil/rockstarmonil/blob/main/WhatsApp%20Image%202024-07-09%20at%2016.16.12_98b2bc99.jpg)
 
-I'm a passionate developer and ethical hacker who loves to explore new technologies and solve problems. 
+I'm a passionate developer who loves to explore new technologies and solve problems. 
 
 ## 🧰 Toolbox
 
@@ -14,6 +14,7 @@ I'm a passionate developer and ethical hacker who loves to explore new technolog
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/monil_jain_01)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rockstarmonil)
 
 ## 🌟 Projects
