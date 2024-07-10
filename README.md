@@ -18,4 +18,4 @@ I'm a passionate developer and ethical hacker who loves to explore new technolog
 
 ## 🌟 Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=project1&theme=radical)](https://github.com
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=newphpproject&theme=radical)](https://github.com/rockstarmonil/newphpproject)
