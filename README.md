@@ -1,6 +1,8 @@
 ![Monil's GitHub Banner](https://github.com/rockstarmonil/rockstarmonil/blob/main/WhatsApp%20Image%202024-07-09%20at%2016.16.12_98b2bc99.jpg)
 
-I'm a passionate developer who loves to explore new technologies and solve problems. 
+![Profile Visits](https://komarev.com/ghpvc/?username=rockstarmonil&color=brightgreen)
+
+- I'm a passionate developer who loves to explore new technologies and solve problems. 
 
 ## 🧰 Toolbox
 
@@ -20,3 +22,6 @@ I'm a passionate developer who loves to explore new technologies and solve probl
 ## 🌟 Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=newphpproject&theme=radical)](https://github.com/rockstarmonil/newphpproject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=Laravel11CRUD&theme=radical)](https://github.com/rockstarmonil/Laravel11CRUD)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=Inventory-management-software&theme=radical)](https://github.com/rockstarmonil/Inventory-management-software)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=monil-portfolio&theme=radical)](https://github.com/rockstarmonil/monil-portfolio)
