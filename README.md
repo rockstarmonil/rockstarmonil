@@ -2,7 +2,10 @@
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=rockstarmonil&color=blue)
 
-- I'm a passionate developer who loves to explore new technologies and solve problems. 
+- I'm a passionate developer who loves to explore new technologies and solve problems.
+- I enjoy collaborating with other developers to create innovative solutions and improve existing systems.
+- Looking for great opportunities as a developer to further enhance my skills and contribute to exciting projects.
+  
 
 ## 🧰 Toolbox
 
@@ -11,6 +14,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## 🔗 Connect with Me
 
@@ -28,6 +34,13 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Become an Ethical Hacker](https://your-blog-url.com)
-- [Understanding Laravel Middleware](https://your-blog-url.com)
+- [Learn PHP Laravel with projects](https://techtarget01.blogspot.com/2024/06/laravel-framework-tutorial-learn-php.html)
+- [Best AI tools around the web](https://techtarget01.blogspot.com/2022/10/httpstechtarget01.blogspot.com20229-best-artificial-intelligence-ai.html.html)
+- [How to learn Python for beginners](https://techtarget01.blogspot.com/2022/08/how-to-learn-python-for-beginners-free.html)
 <!-- BLOG-POST-LIST:END -->
+
+## 📈 GitHub Stats
+![Monil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockstarmonil&show_icons=true&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rockstarmonil&theme=radical)
+
+
