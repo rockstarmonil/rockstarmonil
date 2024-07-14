@@ -43,4 +43,6 @@
 ![Monil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockstarmonil&show_icons=true&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rockstarmonil&theme=radical)
 
+## 📜 Dynamic Quotes
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
