@@ -31,6 +31,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=Inventory-management-software&theme=radical)](https://github.com/rockstarmonil/Inventory-management-software)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=Laravel11CRUD&theme=radical)](https://github.com/rockstarmonil/Laravel11CRUD)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=monil-portfolio&theme=radical)](https://github.com/rockstarmonil/monil-portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=shell-scripting&theme=radical)](https://github.com/rockstarmonil/shell-scripting)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rockstarmonil&repo=docker-experiments&theme=radical)](https://github.com/rockstarmonil/docker-experiments)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
